@@ -1,0 +1,5 @@
+@import "./import_css.css";
+h2{
+    color: red;
+    filter: blur(5px);
+}
